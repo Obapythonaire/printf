@@ -1,7 +1,8 @@
-This work was done by Mr Ogundare Abdullahi and Mr Nosa Mario ikponmwoba on 16/04/2022 in part of the 
+This work was done by Mr Ogundare Abdullahi and Mr Nosa Mario ikponmwoba on 16/04/2022 in paddddrt of the 
 requirements of ALX in learning collaborative work.
 This is the # printf project with the prototypes contained in main.h
 _printf
+
 _printf is a simple custom printf function that formats and prints data to the standard output
 
 The function has the following conversion specifies:
@@ -29,3 +30,5 @@ The function has the following conversion specifies:
 * Header file that contains prototypes for all the functions and a struct holding a function and a character
 ## man_3_printf
 * Custom man page Create a man page for your function.
+- modifier for unsigned conversions
++: prints a plus sign in front of the number
