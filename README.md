@@ -1,7 +1,8 @@
 This work was done by Mr Ogundare Abdullahi and Mr Nosa Mario ikponmwoba on 16/04/2022 in part of the 
 requirements of ALX in learning collaborative work.
 This is the # printf project with the prototypes contained in main.h
-
+_printf
+_printf is a simple custom printf function that formats and prints data to the standard output
 
 The function has the following conversion specifies:
 
