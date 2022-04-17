@@ -1,5 +1,4 @@
 #include "main.h"
-//6th delete oba
 //7th delete nosa
 /**
   * _printf - function that prints based on format specifier
