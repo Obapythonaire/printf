@@ -1,5 +1,4 @@
 #include "main.h"
-//5th delete nosa
 //6th delete oba
 //7th delete nosa
 /**
