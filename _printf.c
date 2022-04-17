@@ -1,5 +1,4 @@
 #include "main.h"
-//7th delete nosa
 /**
   * _printf - function that prints based on format specifier
   * @format: takes in format specifier
