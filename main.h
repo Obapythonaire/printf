@@ -1,13 +1,13 @@
-you remove this
-i remove this
-you remove this
-i remove this
-you remove this
-i remove this
-you remove this 
-i remove this
-#ifndef main.h
-#define main.h
+
+//i remove this
+//you remove this
+//i remove this
+//you remove this
+//i remove this
+//you remove this 
+//i remove this
+#ifndef MAIN_H
+#define MAIN_H
 #include <stdarg.h>
 #include <stdio.h>
 /**
@@ -52,5 +52,5 @@ void format_o(va_list valist, char *buffer, int *index);
 void format_b(va_list valist, char *buffer, int *index);
 void format_r(va_list valist, char *buffer, int *index);
 void format_R(va_list valist, char *buffer, int *index);
-#endif /* main.h */
+#endif /* MAIN_H */
 
