@@ -1,5 +1,5 @@
 This work was done by: <br/>
-<a href="https://www.github.com/obapythonaire">Visit Mr Ogundare Abdulahi</a> 
+<a href="https://www.github.com/obapythonaire"> Mr Ogundare Abdulahi</a> 
 & <br/>
 <a href="https://www.github.com/mariomcq">Mr Nosa Mario ikponmwoba</a> <br/>
 
@@ -10,7 +10,7 @@ _printf
 _printf is a simple custom printf function that formats and prints data to the standard output
 
 <b>The function has the following conversion specifies:</b>
-<ul>
+
 + %c - prints a character
 + %d - prints a  integer
 + %s - prints a string
@@ -25,7 +25,6 @@ _printf is a simple custom printf function that formats and prints data to the s
 + %R - prints string in ROT13 encoding
 + %p - print pointer addresses
 + ' ' - print a space
-</ul>
 
 ## printf
 * The core function where the buffer is defined and freed. All other functions are called from here
