@@ -46,4 +46,3 @@ int _printf(const char *
 	return (count);
 }
 my workk
-my work
