@@ -45,4 +45,3 @@ int _printf(const char *
 	va_end(arguments);
 	return (count);
 }
-h
