@@ -35,4 +35,3 @@ _printf is a simple custom printf function that formats and prints data to the s
 * Custom man page Create a man page for your function.
 - modifier for unsigned conversions
 +: prints a plus sign in front of the number
-woo
