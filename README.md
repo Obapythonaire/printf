@@ -1,15 +1,16 @@
-This work was done by <a href="https://www.github.com/Obapythonaire">Ogundare Abdulahi</a> &
-<a href="https://www.w3schools.com">Visit W3Schools</a>
+This work was done by: <br/>
+<a href="https://www.github.com/obapythonaire">Visit Mr Ogundare Abdulahi</a> 
+& <br/>
+<a href="https://www.github.com/mariomcq">Mr Nosa Mario ikponmwoba</a> <br/>
 
-Mr Ogundare Abdullahi and Mr Nosa Mario ikponmwoba on 16/04/2022 in paddddrt of the 
-requirements of ALX in learning collaborative work.
+on 16/04/2022 in part of the requirements of ALX in learning collaborative work.
 This is the # printf project with the prototypes contained in main.h
 _printf
 
 _printf is a simple custom printf function that formats and prints data to the standard output
 
-The function has the following conversion specifies:
-
+<b>The function has the following conversion specifies:</b>
+<ul>
 + %c - prints a character
 + %d - prints a  integer
 + %s - prints a string
@@ -24,7 +25,7 @@ The function has the following conversion specifies:
 + %R - prints string in ROT13 encoding
 + %p - print pointer addresses
 + ' ' - print a space
-
+</ul>
 
 ## printf
 * The core function where the buffer is defined and freed. All other functions are called from here
