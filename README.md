@@ -1,4 +1,7 @@
-This work was done by Mr Ogundare Abdullahi and Mr Nosa Mario ikponmwoba on 16/04/2022 in paddddrt of the 
+This work was done by <a href="https://www.github.com/Obapythonaire">Ogundare Abdulahi</a> &
+<a href="https://www.w3schools.com">Visit W3Schools</a>
+
+Mr Ogundare Abdullahi and Mr Nosa Mario ikponmwoba on 16/04/2022 in paddddrt of the 
 requirements of ALX in learning collaborative work.
 This is the # printf project with the prototypes contained in main.h
 _printf
