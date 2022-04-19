@@ -41,5 +41,4 @@ work
 worj
 worj
 work
-wokr
-w`orj
+`orj
