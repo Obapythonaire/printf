@@ -39,6 +39,4 @@ work
 work
 work
 worj
-worj
-work
-`orj
+wor
