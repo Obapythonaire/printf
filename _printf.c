@@ -47,4 +47,3 @@ int _printf(const char *
 }
 my workk
 my work
-my work
